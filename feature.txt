@@ -1,4 +1,0 @@
-This is a new feature in git
-
-
-This is the 2nd line in the git commit
